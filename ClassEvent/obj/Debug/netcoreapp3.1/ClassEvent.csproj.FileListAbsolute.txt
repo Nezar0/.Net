@@ -1,0 +1,11 @@
+D:\C#\ClassEvent\obj\Debug\netcoreapp3.1\ClassEvent.csprojAssemblyReference.cache
+D:\C#\ClassEvent\obj\Debug\netcoreapp3.1\ClassEvent.AssemblyInfoInputs.cache
+D:\C#\ClassEvent\obj\Debug\netcoreapp3.1\ClassEvent.AssemblyInfo.cs
+D:\C#\ClassEvent\bin\Debug\netcoreapp3.1\ClassEvent.exe
+D:\C#\ClassEvent\bin\Debug\netcoreapp3.1\ClassEvent.deps.json
+D:\C#\ClassEvent\bin\Debug\netcoreapp3.1\ClassEvent.runtimeconfig.json
+D:\C#\ClassEvent\bin\Debug\netcoreapp3.1\ClassEvent.runtimeconfig.dev.json
+D:\C#\ClassEvent\bin\Debug\netcoreapp3.1\ClassEvent.dll
+D:\C#\ClassEvent\bin\Debug\netcoreapp3.1\ClassEvent.pdb
+D:\C#\ClassEvent\obj\Debug\netcoreapp3.1\ClassEvent.dll
+D:\C#\ClassEvent\obj\Debug\netcoreapp3.1\ClassEvent.pdb

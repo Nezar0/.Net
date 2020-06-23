@@ -1,0 +1,21 @@
+E:\3 курс 2 семестр\системное программирование\Laba4Delegate\Laba4Delegate\Laba4Delegate\bin\Debug\netcoreapp2.1\Laba4Delegate.deps.json
+E:\3 курс 2 семестр\системное программирование\Laba4Delegate\Laba4Delegate\Laba4Delegate\bin\Debug\netcoreapp2.1\Laba4Delegate.runtimeconfig.json
+E:\3 курс 2 семестр\системное программирование\Laba4Delegate\Laba4Delegate\Laba4Delegate\bin\Debug\netcoreapp2.1\Laba4Delegate.runtimeconfig.dev.json
+E:\3 курс 2 семестр\системное программирование\Laba4Delegate\Laba4Delegate\Laba4Delegate\bin\Debug\netcoreapp2.1\Laba4Delegate.dll
+E:\3 курс 2 семестр\системное программирование\Laba4Delegate\Laba4Delegate\Laba4Delegate\bin\Debug\netcoreapp2.1\Laba4Delegate.pdb
+E:\3 курс 2 семестр\системное программирование\Laba4Delegate\Laba4Delegate\Laba4Delegate\obj\Debug\netcoreapp2.1\Laba4Delegate.csprojAssemblyReference.cache
+E:\3 курс 2 семестр\системное программирование\Laba4Delegate\Laba4Delegate\Laba4Delegate\obj\Debug\netcoreapp2.1\Laba4Delegate.csproj.CoreCompileInputs.cache
+E:\3 курс 2 семестр\системное программирование\Laba4Delegate\Laba4Delegate\Laba4Delegate\obj\Debug\netcoreapp2.1\Laba4Delegate.AssemblyInfoInputs.cache
+E:\3 курс 2 семестр\системное программирование\Laba4Delegate\Laba4Delegate\Laba4Delegate\obj\Debug\netcoreapp2.1\Laba4Delegate.AssemblyInfo.cs
+E:\3 курс 2 семестр\системное программирование\Laba4Delegate\Laba4Delegate\Laba4Delegate\obj\Debug\netcoreapp2.1\Laba4Delegate.dll
+E:\3 курс 2 семестр\системное программирование\Laba4Delegate\Laba4Delegate\Laba4Delegate\obj\Debug\netcoreapp2.1\Laba4Delegate.pdb
+D:\C#\Delegate\Laba4Delegate\Laba4Delegate\bin\Debug\netcoreapp2.1\Laba4Delegate.deps.json
+D:\C#\Delegate\Laba4Delegate\Laba4Delegate\bin\Debug\netcoreapp2.1\Laba4Delegate.runtimeconfig.json
+D:\C#\Delegate\Laba4Delegate\Laba4Delegate\bin\Debug\netcoreapp2.1\Laba4Delegate.runtimeconfig.dev.json
+D:\C#\Delegate\Laba4Delegate\Laba4Delegate\bin\Debug\netcoreapp2.1\Laba4Delegate.dll
+D:\C#\Delegate\Laba4Delegate\Laba4Delegate\bin\Debug\netcoreapp2.1\Laba4Delegate.pdb
+D:\C#\Delegate\Laba4Delegate\Laba4Delegate\obj\Debug\netcoreapp2.1\Laba4Delegate.csprojAssemblyReference.cache
+D:\C#\Delegate\Laba4Delegate\Laba4Delegate\obj\Debug\netcoreapp2.1\Laba4Delegate.AssemblyInfoInputs.cache
+D:\C#\Delegate\Laba4Delegate\Laba4Delegate\obj\Debug\netcoreapp2.1\Laba4Delegate.AssemblyInfo.cs
+D:\C#\Delegate\Laba4Delegate\Laba4Delegate\obj\Debug\netcoreapp2.1\Laba4Delegate.dll
+D:\C#\Delegate\Laba4Delegate\Laba4Delegate\obj\Debug\netcoreapp2.1\Laba4Delegate.pdb

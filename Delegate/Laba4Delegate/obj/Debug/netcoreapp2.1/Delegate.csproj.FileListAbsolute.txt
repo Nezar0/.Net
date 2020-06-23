@@ -1,0 +1,9 @@
+D:\C#\Laba4Delegate\Laba4Delegate\bin\Debug\netcoreapp2.1\Delegate.deps.json
+D:\C#\Laba4Delegate\Laba4Delegate\bin\Debug\netcoreapp2.1\Delegate.runtimeconfig.json
+D:\C#\Laba4Delegate\Laba4Delegate\bin\Debug\netcoreapp2.1\Delegate.runtimeconfig.dev.json
+D:\C#\Laba4Delegate\Laba4Delegate\bin\Debug\netcoreapp2.1\Delegate.dll
+D:\C#\Laba4Delegate\Laba4Delegate\bin\Debug\netcoreapp2.1\Delegate.pdb
+D:\C#\Laba4Delegate\Laba4Delegate\obj\Debug\netcoreapp2.1\Delegate.AssemblyInfoInputs.cache
+D:\C#\Laba4Delegate\Laba4Delegate\obj\Debug\netcoreapp2.1\Delegate.AssemblyInfo.cs
+D:\C#\Laba4Delegate\Laba4Delegate\obj\Debug\netcoreapp2.1\Delegate.dll
+D:\C#\Laba4Delegate\Laba4Delegate\obj\Debug\netcoreapp2.1\Delegate.pdb

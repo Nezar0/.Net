@@ -1,0 +1,12 @@
+D:\C#\Way\bin\Release\netcoreapp2.1\Way.deps.json
+D:\C#\Way\bin\Release\netcoreapp2.1\Way.runtimeconfig.json
+D:\C#\Way\bin\Release\netcoreapp2.1\Way.runtimeconfig.dev.json
+D:\C#\Way\bin\Release\netcoreapp2.1\Way.dll
+D:\C#\Way\bin\Release\netcoreapp2.1\Way.pdb
+D:\C#\Way\obj\Release\netcoreapp2.1\Way.csprojAssemblyReference.cache
+D:\C#\Way\obj\Release\netcoreapp2.1\Way.csproj.CoreCompileInputs.cache
+D:\C#\Way\obj\Release\netcoreapp2.1\Way.AssemblyInfoInputs.cache
+D:\C#\Way\obj\Release\netcoreapp2.1\Way.AssemblyInfo.cs
+D:\C#\Way\obj\Release\netcoreapp2.1\Way.dll
+D:\C#\Way\obj\Release\netcoreapp2.1\Way.pdb
+D:\C#\Way\obj\Release\netcoreapp2.1\Way.genruntimeconfig.cache

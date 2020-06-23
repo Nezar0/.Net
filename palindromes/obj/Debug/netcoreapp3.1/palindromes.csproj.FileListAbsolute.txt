@@ -1,0 +1,11 @@
+D:\C#\palindromes\bin\Debug\netcoreapp3.1\palindromes.exe
+D:\C#\palindromes\bin\Debug\netcoreapp3.1\palindromes.deps.json
+D:\C#\palindromes\bin\Debug\netcoreapp3.1\palindromes.runtimeconfig.json
+D:\C#\palindromes\bin\Debug\netcoreapp3.1\palindromes.runtimeconfig.dev.json
+D:\C#\palindromes\bin\Debug\netcoreapp3.1\palindromes.dll
+D:\C#\palindromes\bin\Debug\netcoreapp3.1\palindromes.pdb
+D:\C#\palindromes\obj\Debug\netcoreapp3.1\palindromes.csprojAssemblyReference.cache
+D:\C#\palindromes\obj\Debug\netcoreapp3.1\palindromes.AssemblyInfoInputs.cache
+D:\C#\palindromes\obj\Debug\netcoreapp3.1\palindromes.AssemblyInfo.cs
+D:\C#\palindromes\obj\Debug\netcoreapp3.1\palindromes.dll
+D:\C#\palindromes\obj\Debug\netcoreapp3.1\palindromes.pdb
